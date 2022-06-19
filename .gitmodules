@@ -1,0 +1,3 @@
+[submodule "sub-projcet"]
+	path = sub-projcet
+	url = git@github.com:yuiki-iwayama/sub-projcet.git
